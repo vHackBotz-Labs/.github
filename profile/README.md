@@ -1,61 +1,73 @@
-# 🧪 vHackBotz Labs
+<h1 align="center">🧪 vHackBotz Labs</h1>
 
-Welcome to **vHackBotz Labs** — the experimental playground of [vHackBotz](https://vhackbotz.vercel.app/), where design meets engineering, and ideas turn into reality.  
-We build open-source tools, starter kits, and creative tech products to empower developers, creators, and modern startups.
+<p align="center">
+  <strong>Where design meets engineering.</strong><br/>
+  We build open-source tools, creative experiments, and internal products that empower developers, creators, and modern brands.
+</p>
+
+<p align="center">
+  <a href="https://vhackbotz.vercel.app/">🌐 Website</a> •
+  <a href="https://vhackbotz.vercel.app/labs">🧠 Labs</a> •
+  <a href="https://vhackbotz.vercel.app/studios">🎨 Studios</a> •
+  <a href="https://instagram.com/vhackbotz">📷 Instagram</a> •
+  <a href="https://twitter.com/vhackbotz">🐦 Twitter</a>
+</p>
 
 ---
 
 ## 🚀 What We Do
 
-At **vhLabs**, we focus on:
+At **vHackBotz Labs**, we focus on:
 
-- **Product Engineering**: Full-stack SaaS tools, MVPs, and internal products.
-- **Developer Tooling**: Boilerplates, APIs, and utilities to ship faster.
-- **Studio Experiments**: Concepts and ideas that push creative boundaries.
-- **Open Innovation**: Collaborating with indie hackers and the open-source community.
+- 🛠 **Product Engineering** — Full-stack SaaS tools, MVPs, and internal platforms  
+- ⚙️ **Developer Tooling** — Boilerplates, APIs, and dev utilities for faster shipping  
+- 🧪 **Studio Experiments** — Fun concepts and tech that push creative boundaries  
+- 🌍 **Open Innovation** — Building in public with indie hackers and dev communities  
 
 ---
 
 ## 📂 Key Products
 
-| Project | Description |
-|--------|-------------|
-| [`dropanote`](https://dropanote.onrender.com/) | Lightweight feedback widget & analytics dashboard |
+| 🧩 Project | 🔍 Description |
+|-----------|----------------|
+| [`dropanote`](https://dropanote.onrender.com/) | Lightweight feedback widget with an analytics dashboard |
 
-
-> New repos drop often. Stay tuned. 👀
+> New experiments and utilities coming soon. Stay tuned. 👀
 
 ---
 
 ## 💡 Why vHackBotz Labs?
 
-We build in public. Every project here was created to **solve a real problem** or scratch an internal itch.  
-Our philosophy is simple: **Start curious, ship fast, stay open.**
+We **build in public** and iterate quickly. Every product solves a real problem or scratches a creative itch.
 
-Whether you're a developer, designer, or startup founder — if you love creative tech, you'll love what we’re cooking here.
+✨ Our core philosophy:
+> **Start curious → Ship fast → Stay open.**
+
+Whether you're a **founder**, **dev**, or **designer**, if you love creative technology — you’ll love what we’re building here.
 
 ---
 
 ## 🛠 Tech Stack
 
-- Frontend: Astro · Next.js · Tailwind CSS · React
-- Backend: FastAPI · Flask · Supabase · Django
-- Tooling: Vite · TypeScript · GitHub Actions
-- Design: Figma · Framer · SVG animation
-- AI: GPT-based copilots and automations
+**Frontend**: `Astro` · `Next.js` · `React` · `Tailwind CSS`  
+**Backend**: `FastAPI` · `Flask` · `Supabase` · `Django`  
+**Dev Tools**: `Vite` · `TypeScript` · `GitHub Actions`  
+**Design**: `Figma` · `Framer` · `SVG` · `Lottie`  
+**AI + Automation**: GPT-powered copilots & internal bots
 
 ---
 
-## ⚡️ Connect With Us
+## 🧠 Connect with Us
 
-- 🌐 Website: [vhackbotz.vercel.app](https://vhackbotz.vercel.app/)
-- 🧠 Labs Page: [vhackbotz.vercel.app/labs](https://vhackbotz.vercel.app/labs)
-- 🖌 Studios: [vhackbotz.vercel.app/studios](https://vhackbotz.vercel.app/studios)
-- 🐦 Twitter: [@vhackbotz](https://twitter.com/vhackbotz)
-- 📷 Instagram: [@vhackbotz](https://instagram.com/vhackbotz)
+- 🌐 [vhackbotz.vercel.app](https://vhackbotz.vercel.app)
+- 🧪 [Labs Page](https://vhackbotz.vercel.app/labs)
+- 🖌 [Studios Page](https://vhackbotz.vercel.app/studios)
+- 🐦 [Twitter](https://twitter.com/vhackbotz)
+- 📷 [Instagram](https://instagram.com/vhackbotz)
 
 ---
 
-> Built by curiosity. Backed by design. Open for everyone.
-
-— `vHackBotz Labs 🌌`
+<p align="center">
+  <strong>Built by curiosity. Backed by design. Open for everyone.</strong><br/>
+  — <code>vHackBotz Labs 🌌</code>
+</p>
